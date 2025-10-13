@@ -5,7 +5,7 @@ export default function TestimonialThemed() {
   const isEarthy = currentTheme === 'earthy';
 
   return (
-    <section className={`py-20 ${isEarthy ? 'bg-gradient-to-br from-rust-500 to-terracotta-500' : 'bg-gradient-to-br from-slate-blue to-blue-grey'}`}>
+    <section className={`py-20 ${isEarthy ? 'bg-gradient-to-br from-rust-500 to-terracotta-500' : 'bg-slate-blue'}`}>
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-12">
           <h2 className="text-3xl sm:text-4xl font-bold text-white mb-4">
