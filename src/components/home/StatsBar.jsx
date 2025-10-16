@@ -1,6 +1,6 @@
 export default function StatsBar() {
   const stats = [
-    { value: "96%", label: "agree Untilted is intuitive to set up", color: "text-rust-600" },
+    { value: "96%", label: "agree Tilted is intuitive to set up", color: "text-rust-600" },
     { value: "6+", label: "hours saved per week on admin tasks", color: "text-terracotta-500" },
     { value: "14+", label: "hours saved per month on billing", color: "text-tan-400" },
     { value: "50M+", label: "sessions completed", color: "text-brown-600" }
